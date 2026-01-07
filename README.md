@@ -12,6 +12,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ## 5. 🌐 Access the API
-<p style="border-blue"
-    Open your browser and go to: http://127.0.0.1:8000
+<p style="border: 2px solid blue; padding: 5px;">
+  Open your browser and go to: <a href="http://127.0.0.1:8000">http://127.0.0.1:8000</a>
 </p>
+
