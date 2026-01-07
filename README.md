@@ -6,7 +6,7 @@
 <pre><code>git clone https://github.com/YourUsername/repository-name.git</code></pre>
 
 <h2>2. 📦 Install dependencies</h2>
-<pre style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+<pre style="background-color: #c6bcf5; padding: 10px; border-radius: 5px;">
 <code>pip install -r requirements.txt</code>
 </pre>
 
