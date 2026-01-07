@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "title": "Python Basics",
+        "author": "Long Ti",
+        "pages": 365
+    },
+    {
+        "id": 2,
+        "title": "FastAPI Starter",
+        "author": "Sokheang",
+        "pages": 280
+    },
+    {
+        "id": 3,
+        "title": "Advanced Python",
+        "author": "Dara",
+        "pages": 520
+    },
+    {
+        "id": 4,
+        "title": "REST API Design",
+        "author": "Vannak",
+        "pages": 310
+    },
+    {
+        "id": 5,
+        "title": "Flask in Action",
+        "author": "Chantha",
+        "pages": 295
+    },
+    {
+        "id": 6,
+        "title": "Data Analysis 101",
+        "author": "Soklin",
+        "pages": 450
+    },
+    {
+        "id": 7,
+        "title": "Machine Learning Intro",
+        "author": "Rithy",
+        "pages": 600
+    },
+    {
+        "id": 8,
+        "title": "Deep Learning Basics",
+        "author": "Sopheak",
+        "pages": 720
+    },
+    {
+        "id": 9,
+        "title": "SQL for Beginners",
+        "author": "Dalin",
+        "pages": 260
+    },
+    {
+        "id": 10,
+        "title": "PostgreSQL Guide",
+        "author": "Borey",
+        "pages": 390
+    },
+    {
+        "id": 11,
+        "title": "MySQL Handbook",
+        "author": "Sina",
+        "pages": 410
+    },
+    {
+        "id": 12,
+        "title": "MongoDB Essentials",
+        "author": "Tola",
+        "pages": 330
+    },
+    {
+        "id": 13,
+        "title": "Docker Basics",
+        "author": "Phirun",
+        "pages": 270
+    },
+    {
+        "id": 14,
+        "title": "Kubernetes Intro",
+        "author": "Makara",
+        "pages": 540
+    },
+    {
+        "id": 15,
+        "title": "Linux Command Line",
+        "author": "Sophal",
+        "pages": 350
+    },
+    {
+        "id": 16,
+        "title": "Git & GitHub",
+        "author": "Chenda",
+        "pages": 210
+    },
+    {
+        "id": 17,
+        "title": "DevOps Roadmap",
+        "author": "Sovann",
+        "pages": 480
+    },
+    {
+        "id": 18,
+        "title": "Cloud Computing",
+        "author": "Kosal",
+        "pages": 430
+    },
+    {
+        "id": 19,
+        "title": "AWS for Beginners",
+        "author": "Rina",
+        "pages": 390
+    },
+    {
+        "id": 20,
+        "title": "Azure Fundamentals",
+        "author": "Nita",
+        "pages": 360
+    },
+    {
+        "id": 21,
+        "title": "GCP Essentials",
+        "author": "Bopha",
+        "pages": 340
+    },
+    {
+        "id": 22,
+        "title": "HTML & CSS",
+        "author": "Sreymom",
+        "pages": 250
+    },
+    {
+        "id": 23,
+        "title": "JavaScript Basics",
+        "author": "Sokny",
+        "pages": 320
+    },
+    {
+        "id": 24,
+        "title": "TypeScript Guide",
+        "author": "Vichet",
+        "pages": 370
+    },
+    {
+        "id": 25,
+        "title": "React Fundamentals",
+        "author": "Ronan",
+        "pages": 410
+    },
+    {
+        "id": 26,
+        "title": "Vue.js in Practice",
+        "author": "Davy",
+        "pages": 380
+    },
+    {
+        "id": 27,
+        "title": "Angular Deep Dive",
+        "author": "Sothea",
+        "pages": 520
+    },
+    {
+        "id": 28,
+        "title": "Next.js Handbook",
+        "author": "Meng",
+        "pages": 400
+    },
+    {
+        "id": 29,
+        "title": "Node.js Basics",
+        "author": "Piseth",
+        "pages": 360
+    },
+    {
+        "id": 30,
+        "title": "Express.js Guide",
+        "author": "Kanha",
+        "pages": 300
+    },
+    {
+        "id": 31,
+        "title": "Laravel Beginner",
+        "author": "Chankrisna",
+        "pages": 420
+    },
+    {
+        "id": 32,
+        "title": "Laravel Advanced",
+        "author": "Socheat",
+        "pages": 610
+    },
+    {
+        "id": 33,
+        "title": "PHP Essentials",
+        "author": "Roth",
+        "pages": 340
+    },
+    {
+        "id": 34,
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "pages": 464
+    },
+    {
+        "id": 35,
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "pages": 395
+    },
+    {
+        "id": 36,
+        "title": "System Design Intro",
+        "author": "Alex Xu",
+        "pages": 550
+    },
+    {
+        "id": 37,
+        "title": "Microservices",
+        "author": "Sam Newman",
+        "pages": 480
+    },
+    {
+        "id": 38,
+        "title": "Software Architecture",
+        "author": "Neal Ford",
+        "pages": 510
+    },
+    {
+        "id": 39,
+        "title": "Agile Development",
+        "author": "Ken Schwaber",
+        "pages": 290
+    },
+    {
+        "id": 40,
+        "title": "Scrum Guide",
+        "author": "Jeff Sutherland",
+        "pages": 180
+    },
+    {
+        "id": 41,
+        "title": "Testing with PyTest",
+        "author": "Brian Okken",
+        "pages": 320
+    },
+    {
+        "id": 42,
+        "title": "CI/CD Pipeline",
+        "author": "Sokchea",
+        "pages": 360
+    },
+    {
+        "id": 43,
+        "title": "Security Basics",
+        "author": "Dareth",
+        "pages": 410
+    },
+    {
+        "id": 44,
+        "title": "Web Security",
+        "author": "OWASP",
+        "pages": 520
+    },
+    {
+        "id": 45,
+        "title": "Ethical Hacking",
+        "author": "Rith",
+        "pages": 600
+    },
+    {
+        "id": 46,
+        "title": "Networking 101",
+        "author": "Sambo",
+        "pages": 350
+    },
+    {
+        "id": 47,
+        "title": "Computer Basics",
+        "author": "CITO",
+        "pages": 200
+    },
+    {
+        "id": 48,
+        "title": "Algorithms Intro",
+        "author": "CLRS",
+        "pages": 800
+    },
+    {
+        "id": 49,
+        "title": "Data Structures",
+        "author": "Weiss",
+        "pages": 620
+    },
+    {
+        "id": 50,
+        "title": "Big Data Basics",
+        "author": "Sophea",
+        "pages": 450
+    },
+    {
+        "id": 51,
+        "title": "AI Fundamentals",
+        "author": "Andrew Ng",
+        "pages": 500
+    },
+    {
+        "id": 52,
+        "title": "NLP Basics",
+        "author": "Jurafsky",
+        "pages": 700
+    },
+    {
+        "id": 53,
+        "title": "Computer Vision",
+        "author": "Szeliski",
+        "pages": 650
+    },
+    {
+        "id": 54,
+        "title": "Prompt Engineering",
+        "author": "OpenAI",
+        "pages": 220
+    },
+    {
+        "id": 55,
+        "title": "ChatGPT Guide",
+        "author": "AI Lab",
+        "pages": 260
+    },
+    {
+        "id": 56,
+        "title": "Python Projects",
+        "author": "Sokha",
+        "pages": 480
+    },
+    {
+        "id": 57,
+        "title": "FastAPI Projects",
+        "author": "Keasokheang",
+        "pages": 420
+    },
+    {
+        "id": 58,
+        "title": "Backend Roadmap",
+        "author": "Nextwork",
+        "pages": 390
+    },
+    {
+        "id": 59,
+        "title": "Frontend Roadmap",
+        "author": "Roadmap.sh",
+        "pages": 360
+    },
+    {
+        "id": 60,
+        "title": "Fullstack Guide",
+        "author": "Dev Team",
+        "pages": 540
+    },
+    {
+        "id": 61,
+        "title": "Startup Basics",
+        "author": "Eric Ries",
+        "pages": 330
+    },
+    {
+        "id": 62,
+        "title": "Product Management",
+        "author": "Marty Cagan",
+        "pages": 410
+    },
+    {
+        "id": 63,
+        "title": "Tech Leadership",
+        "author": "Camille Fournier",
+        "pages": 380
+    },
+    {
+        "id": 64,
+        "title": "Career in Tech",
+        "author": "Sokmean",
+        "pages": 290
+    },
+    {
+        "id": 65,
+        "title": "Freelancing Guide",
+        "author": "Upwork",
+        "pages": 260
+    },
+    {
+        "id": 66,
+        "title": "Remote Work",
+        "author": "GitLab",
+        "pages": 300
+    },
+    {
+        "id": 67,
+        "title": "Time Management",
+        "author": "Brian Tracy",
+        "pages": 240
+    },
+    {
+        "id": 68,
+        "title": "Problem Solving",
+        "author": "Polya",
+        "pages": 280
+    },
+    {
+        "id": 69,
+        "title": "Logical Thinking",
+        "author": "Sotheary",
+        "pages": 310
+    },
+    {
+        "id": 70,
+        "title": "Critical Thinking",
+        "author": "Facione",
+        "pages": 350
+    },
+    {
+        "id": 71,
+        "title": "Math for CS",
+        "author": "MIT",
+        "pages": 620
+    },
+    {
+        "id": 72,
+        "title": "Statistics Basics",
+        "author": "Sokun",
+        "pages": 410
+    },
+    {
+        "id": 73,
+        "title": "Excel for Data",
+        "author": "Microsoft",
+        "pages": 280
+    },
+    {
+        "id": 74,
+        "title": "Power BI Guide",
+        "author": "MS Team",
+        "pages": 360
+    },
+    {
+        "id": 75,
+        "title": "Tableau Basics",
+        "author": "Tableau",
+        "pages": 340
+    },
+    {
+        "id": 76,
+        "title": "Data Visualization",
+        "author": "Tufte",
+        "pages": 420
+    },
+    {
+        "id": 77,
+        "title": "ETL Pipelines",
+        "author": "Data Team",
+        "pages": 390
+    },
+    {
+        "id": 78,
+        "title": "APIs at Scale",
+        "author": "Google",
+        "pages": 480
+    },
+    {
+        "id": 79,
+        "title": "System Performance",
+        "author": "Brendan Gregg",
+        "pages": 520
+    },
+    {
+        "id": 80,
+        "title": "Scalable Systems",
+        "author": "AWS",
+        "pages": 560
+    },
+    {
+        "id": 81,
+        "title": "Mobile App Basics",
+        "author": "Google",
+        "pages": 300
+    },
+    {
+        "id": 82,
+        "title": "Android Development",
+        "author": "JetBrains",
+        "pages": 480
+    },
+    {
+        "id": 83,
+        "title": "iOS Development",
+        "author": "Apple",
+        "pages": 520
+    },
+    {
+        "id": 84,
+        "title": "Flutter Guide",
+        "author": "Google",
+        "pages": 410
+    },
+    {
+        "id": 85,
+        "title": "React Native",
+        "author": "Meta",
+        "pages": 390
+    },
+    {
+        "id": 86,
+        "title": "Game Dev Intro",
+        "author": "Unity",
+        "pages": 450
+    },
+    {
+        "id": 87,
+        "title": "Unity Basics",
+        "author": "Unity",
+        "pages": 380
+    },
+    {
+        "id": 88,
+        "title": "Unreal Engine",
+        "author": "Epic Games",
+        "pages": 520
+    },
+    {
+        "id": 89,
+        "title": "3D Graphics",
+        "author": "OpenGL",
+        "pages": 610
+    },
+    {
+        "id": 90,
+        "title": "Computer Graphics",
+        "author": "Foley",
+        "pages": 700
+    },
+    {
+        "id": 91,
+        "title": "IoT Fundamentals",
+        "author": "Cisco",
+        "pages": 360
+    },
+    {
+        "id": 92,
+        "title": "Embedded Systems",
+        "author": "ARM",
+        "pages": 420
+    },
+    {
+        "id": 93,
+        "title": "Robotics Intro",
+        "author": "MIT",
+        "pages": 480
+    },
+    {
+        "id": 94,
+        "title": "Automation Basics",
+        "author": "Siemens",
+        "pages": 390
+    },
+    {
+        "id": 95,
+        "title": "PLC Programming",
+        "author": "Allen Bradley",
+        "pages": 350
+    },
+    {
+        "id": 96,
+        "title": "Electronics 101",
+        "author": "Horowitz",
+        "pages": 650
+    },
+    {
+        "id": 97,
+        "title": "Digital Logic",
+        "author": "Morris Mano",
+        "pages": 520
+    },
+    {
+        "id": 98,
+        "title": "Operating Systems",
+        "author": "Tanenbaum",
+        "pages": 740
+    },
+    {
+        "id": 99,
+        "title": "Compiler Design",
+        "author": "Aho",
+        "pages": 680
+    },
+    {
+        "id": 100,
+        "title": "Computer Networks",
+        "author": "Kurose",
+        "pages": 720
+    }
+]
