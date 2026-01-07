@@ -9,7 +9,7 @@ git clone https://github.com/YourUsername/repository-name.git
 pip install -r requirements.txt
 
 ## 3. 🚀 Start the FastAPI server
-uvicorn main:app --reload
+**Open your browser and go to:** uvicorn main:app --reload
 
 ## 5. 🌐 Access the API
 <p style="border: 2px solid blue; padding: 5px;">
