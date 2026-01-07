@@ -6,7 +6,9 @@
 <pre><code>git clone https://github.com/YourUsername/repository-name.git</code></pre>
 
 <h2>2. 📦 Install dependencies</h2>
-<pre><code>pip install -r requirements.txt</code></pre>
+<pre style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+<code>pip install -r requirements.txt</code>
+</pre>
 
 <h2>3. 🚀 Start the FastAPI server</h2>
 <pre><code>uvicorn main:app --reload</code></pre>
